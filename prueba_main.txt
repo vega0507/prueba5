@@ -1,3 +1,4 @@
 1.creacion de repositorio
 2. desde el branch
 3. desde el main
+3. desde el branch , hace merge? 
