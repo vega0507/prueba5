@@ -1,1 +1,2 @@
 1.creacion de repositorio
+2. desde el branch
