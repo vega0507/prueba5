@@ -2,3 +2,4 @@
 2. desde el branch
 3. desde el branch , hace merge? 
 5. en el branch el 23-09-2021
+6. viendo si llega al mirror 1
