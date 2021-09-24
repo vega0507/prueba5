@@ -2,3 +2,4 @@
 2. desde el branch
 3. desde el main
 3. desde el branch , hace merge? 
+4. estoy en el main 23-09-2021
