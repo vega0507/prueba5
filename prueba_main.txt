@@ -5,3 +5,4 @@
 6. viendo si llega al mirror 1
 7. probando si llega al mirror2
 8. se actualiza solito?
+9. estoy en la nueva rama luego del clonar y sincronizar trabajando solita 
